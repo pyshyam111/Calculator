@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <!-- You can add more string resources below -->
+    <!-- Example: -->
+    <!-- <string name="settings">Settings</string> -->
+</resources>
